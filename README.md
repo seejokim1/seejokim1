@@ -10,6 +10,7 @@ Gyeongguk National University
 - Numerical Analysis
 - Polymer Extrusion Processes
 - Computational Rheology
+- Machine Learning in AI
 - Computational Fluid Dynamics (CFD)  
 - Finite Element Method (FEM)  
 - OpenFOAM / ANSYS Fluent / Polyflow  

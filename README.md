@@ -7,14 +7,17 @@ Gyeongguk National University
 
 ## 🔬 Research & Technical Areas
 
-- Numerical Analysis  
+- Numerical Analysis
+- Polymer Extrusion Processes
+- Computational Rheology
 - Computational Fluid Dynamics (CFD)  
 - Finite Element Method (FEM)  
 - OpenFOAM / ANSYS Fluent / Polyflow  
 - Molecular Dynamics (MD Simulation)  
 - Autonomous Driving & ROS2  
 - AutoCAD & Blender  
-- Modeling & Simulation (M&S) for Military Science  
+- Modeling & Simulation (M&S) for Military Science
+- Optimal body-fitted cloth design
 
 ---
 

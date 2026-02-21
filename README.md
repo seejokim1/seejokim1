@@ -1,6 +1,48 @@
 # 👋 Prof. See Jo Kim
 
+# 👋 Prof. See Jo Kim
+
 Professor of Mechanical & Robotics Engineering  
+Gyeongbuk National University  
+
+---
+
+## 🔬 Research & Technical Areas
+
+- Numerical Analysis  
+- Computational Fluid Dynamics (CFD)  
+- Finite Element Method (FEM)  
+- OpenFOAM / ANSYS Fluent / Polyflow  
+- Molecular Dynamics (MD Simulation)  
+- Autonomous Driving & ROS2  
+- AutoCAD & Blender  
+- Modeling & Simulation (M&S) for Military Science  
+
+---
+
+## 📚 Academic Profiles
+
+- 🔗 ResearchGate: https://www.researchgate.net/profile/See-Jo-Kim  
+- 🔗 Google Scholar: https://scholar.google.com/citations?user=F7zQCZsAAAAJ&hl=ko  
+
+---
+
+## 📘 Major Project
+
+- **Numerical Analysis with Python**  
+  https://github.com/seejokim1/NA_with_python  
+
+---
+
+## 🌐 GitHub
+
+https://github.com/seejokim1
+
+---
+
+## 🧠 SEO Text (for Google Indexing)
+
+Prof. See Jo Kim GitHub Repository for Numerical Analysis, CFD, FEM, OpenFOAM, Fluent, Polyflow, MD Simulation, Autonomous Driving and ROS2 Research.
 
 
 <!-- Header Banner -->

@@ -1,7 +1,7 @@
 # 👋 Prof. See Jo Kim
 
 Professor of Mechanical & Robotics Engineering  
-Gyeongguk National University  
+Gyeongkuk National University  
 
 ---
 

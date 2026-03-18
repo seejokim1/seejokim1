@@ -1,4 +1,4 @@
-# 👋 Prof. See Jo Kim
+# 👋 Prof. See Jo Kim ( 김시조 )
 
 Professor of Mechanical & Robotics Engineering  
 Gyeongkuk National University  
